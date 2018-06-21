@@ -1,0 +1,17 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: file
+  name: image
+  label: Image
+- type: select
+  name: alignment
+  config:
+    source:
+      type: simple
+    options:
+    - Left
+    - Right
+    - Full
+  label: Alignment
