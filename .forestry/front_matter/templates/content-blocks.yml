@@ -9,3 +9,4 @@ fields:
   template_types:
   - headline
   - body-copy
+  - image
