@@ -1,0 +1,8 @@
+---
+hide_body: true
+is_partial: true
+fields:
+- type: text
+- type: blocks
+  label: Content Blocks
+  name: content_blocks
