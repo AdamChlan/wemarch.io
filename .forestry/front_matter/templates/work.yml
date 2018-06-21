@@ -6,3 +6,5 @@ fields:
   template: content-blocks
   label: Content Blocks
   name: content_blocks
+pages:
+- content/work/test.md
