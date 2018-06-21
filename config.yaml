@@ -1,0 +1,8 @@
+---
+title: March Interactive
+DefaultContentLanguage: en
+MetaDataFormat: yaml
+baseURL: "http://example.org"
+languageCode: en-us
+config: config.yaml
+theme: "wemarch"
