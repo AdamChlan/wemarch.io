@@ -1,0 +1,21 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: field_group
+  name: headline
+  label: Headline
+  fields:
+  - type: text
+    name: headline
+    label: Headline
+    default: Headline
+- type: select
+  name: size
+  config:
+    source:
+      type: simple
+    options:
+    - h2
+    - h3
+  label: Size
