@@ -8,3 +8,4 @@ fields:
   name: content_blocks
   template_types:
   - headline
+  - body-copy
