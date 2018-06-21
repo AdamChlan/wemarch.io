@@ -1,0 +1,11 @@
+---
+hide_body: false
+is_partial: true
+fields:
+- type: textarea
+  name: body_copy
+  label: Body Copy
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
