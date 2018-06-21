@@ -1,4 +1,8 @@
 ---
-hide_body: false
+hide_body: true
 is_partial: false
-fields: []
+fields:
+- type: include
+  template: content-blocks
+  label: Content Blocks
+  name: content_blocks
