@@ -4,12 +4,12 @@ hide_body: true
 is_partial: false
 fields:
 - type: include
-  name: feature_image
-  label: Feature Image
-- type: include
   label: Summary
   name: summary
   template: summary
+- type: include
+  name: feature_image
+  label: Feature Image
 - type: include
   template: content-blocks
   label: Content Blocks
