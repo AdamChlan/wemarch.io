@@ -12,6 +12,7 @@ summary: Garrod Hydraulics is a York, Pennsylvania based company, specializing i
   industrial hard chrome plating of various components and expert repair and remanufacturing
   of large hydraulic cylinders. They needed a site to show off their vast capabilities
   and key partnerships.
+feature_image: "/uploads/fpo-cb-img.png"
 draft: true
 
 ---
