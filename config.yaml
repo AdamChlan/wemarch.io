@@ -2,7 +2,7 @@
 title: March Interactive
 DefaultContentLanguage: en
 MetaDataFormat: yaml
-baseURL: "http://example.org"
+baseURL: "http://wemarch.io"
 languageCode: en-us
 config: config.yaml
 theme: "wemarch"
