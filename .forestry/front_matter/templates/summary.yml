@@ -1,11 +1,11 @@
 ---
-label: Body Copy
-hide_body: false
+label: Summary
+hide_body: true
 is_partial: true
 fields:
 - type: textarea
-  name: body_copy
-  label: Body Copy
+  name: summary
+  label: Summary
   config:
     wysiwyg: true
     schema:
