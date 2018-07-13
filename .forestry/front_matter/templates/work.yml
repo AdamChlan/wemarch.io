@@ -1,4 +1,5 @@
 ---
+label: Work
 hide_body: true
 is_partial: false
 fields:
@@ -7,4 +8,5 @@ fields:
   label: Content Blocks
   name: content_blocks
 pages:
+- content/test-page.md
 - content/work/garrod.md
