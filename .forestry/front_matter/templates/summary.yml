@@ -1,0 +1,12 @@
+---
+label: Summary
+hide_body: true
+is_partial: true
+fields:
+- type: textarea
+  name: summary
+  label: Summary
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
